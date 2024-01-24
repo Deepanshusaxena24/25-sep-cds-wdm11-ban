@@ -1,1 +1,4 @@
 we are learning git
+
+we are writing lines
+to show how to make version
